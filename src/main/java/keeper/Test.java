@@ -30,7 +30,7 @@ public class Test {
     }
 
     public static void findAllFriendsForPerson(Person person) {
-        List<Person> result = new ArrayList<Person>();
+        List<Person> result = new ArrayList<>();
         getFriends(person, result, person);
         System.out.println(result);
     }

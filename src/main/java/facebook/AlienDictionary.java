@@ -12,6 +12,6 @@ public class AlienDictionary {
     public static String alienOrder(String[] words) {
         Map<Character, List<Character>> memo = new LinkedHashMap<>();
         List<Character> test = new ArrayList<>();
-        test.indexOf()
+        return "";
     }
 }

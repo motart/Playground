@@ -1,7 +1,5 @@
 package facebook;
 
-import com.sun.org.apache.xpath.internal.operations.Gte;
-
 import java.util.*;
 
 public class IntegerToEnglish {
